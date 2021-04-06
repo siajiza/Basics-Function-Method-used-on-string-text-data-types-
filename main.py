@@ -1,7 +1,9 @@
 # sentence = 'The quick brown fox jumped'
+# Description of variable´s  content
 # sentence -> variable
-# 'The quick brown fox jumped' -> string
 # = -> assignment
+# 'The quick brown fox jumped' -> string
+
 
 sentence = 'The quick brown fox jumped'
 sentence_two = sentence.upper()
