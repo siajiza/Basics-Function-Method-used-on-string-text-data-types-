@@ -41,6 +41,7 @@ Return a copy of the string with the first character, of the first word of the t
     
 <h4>str.lower()</h4>
 Return a copy of the string with all the cased characters [4] converted to lowercase.
+
     sentence_five = 'the Quick Brown fOx jumped'
     print(sentence_five.lower())
     the quick brown fox jumped
